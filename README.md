@@ -141,7 +141,7 @@ Developed several software simulators, realistically resembling the behaviour an
 
 
 ## Languages
-English:	Advanced (professional working proficiency)
-Russian:	Native
+* English:	Advanced (professional working proficiency)
+* Russian:	Native
 
 
